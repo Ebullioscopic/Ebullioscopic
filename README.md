@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kryoscopic" target="blank"><img src="https://img.shields.io/twitter/follow/kryoscopic?logo=twitter&style=for-the-badge" alt="kryoscopic" /></a> </p>
 
-- 🔭 I’m currently working on [FarmHand](https://github.com/Ebullioscopic/FarmHand)
+- 🔭 I’m currently working on [Rollie](https://github.com/Ebullioscopic/Rollie)
 
 - 🌱 I’m currently learning **CSE - AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ebullioscopic](https://github.com/Ebullioscopic)
 
-- 💬 Ask me about **Kivy, KivyMD, Tensorflow, Pandas, Keras, Raspberry Pi, Arduino etc**
+- 💬 Ask me about **LangChain, Django, HuggingFace Transformers, Kivy, KivyMD, Tensorflow, Pandas, Keras, Raspberry Pi, Arduino etc**
 
 - 📫 How to reach me **hrhn.mudaliar251@gmail.com**
 
