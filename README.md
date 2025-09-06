@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kryoscopic" target="blank"><img src="https://img.shields.io/twitter/follow/kryoscopic?logo=twitter&style=for-the-badge" alt="kryoscopic" /></a> </p>
 
-- 🔭 I’m currently working on [Rollie](https://github.com/Ebullioscopic/Rollie)
+- 🔭 I’m currently working on [DynamicIsland](https://github.com/Ebullioscopic/DynamicIsland)
 
 - 🌱 I’m currently learning **CSE - AI & ML**
 
